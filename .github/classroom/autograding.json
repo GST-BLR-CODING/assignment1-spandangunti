@@ -3,7 +3,7 @@
     {
       "name": "program.py",
       "setup": "",
-      "run": "python program.py",
+      "run": "python3 program.py",
       "input": "",
       "output": "",
       "comparison": "included",
