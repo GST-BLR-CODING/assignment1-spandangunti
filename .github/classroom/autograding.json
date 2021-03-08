@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "program.py",
+      "name": "Dialpad.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "python program.py",
+      "run": "python Dialpad.py",
       "input": "",
       "output": "",
       "comparison": "included",
